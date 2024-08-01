@@ -10,3 +10,7 @@ This was an interesting project for me. It show cases my ability to create diffe
 Modified: 7/30/24
 
 Added basic CSS elements such as different font, colors, and centered images.
+
+Modified 7/31/24
+
+Redesign to spruce up the site visually. Took out unnecessary ingredient information on recipe pages. Added link to AllRecipes. Will need to update in the future to make more mobile friendly, as the site currently loads at a fixed 800px. I tried using max-width but this pushes the description text to the next line when window is shrunk. This requires further research.
